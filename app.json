@@ -1,7 +1,7 @@
 {
-  "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
-  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
+  "name": "SADEW-MD",
+  "description": "Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅew Alessandro ᴄᴏᴅᴇʀ · · ·",
+  "logo": "https://share.google/images/01KDl6WbdJLA31vcM",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -14,15 +14,15 @@
     },  
     
     "OWNER_NUMBER": {
-      "description": "Set your owner number",
+      "description": "94769340542",
       "required": true,
-      "value": "94779062397"
+      "value": "94769340542"
     },
 
     "DEV": {
-      "description": "Bot Developer Numeber",
+      "description": "94769340542",
       "required": true,
-      "value": "94779062397"
+      "value": "94769340542"
     },
     
     "PREFIX": {
@@ -32,7 +32,7 @@
     },
     
     "MODE": {
-      "description": "select your bot work type public-private-inbox-group.",
+      "description": "public",
       "required": true,
       "value": "public"
     }, 
@@ -142,7 +142,7 @@
     "INBOX_BLOCK": {
       "description": "Inbox Auto block",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
     
      "WELCOME": {
