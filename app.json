@@ -1,6 +1,6 @@
 {
   "name": "SADEW-MD",
-  "description": "Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅew Alessandro ᴄᴏᴅᴇʀ · · ·",
+  "description": "Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅew Alessandro ᴄᴏᴅᴇʀ",
   "logo": "https://share.google/images/01KDl6WbdJLA31vcM",
   "keywords": ["bot"],
   "success_url": "/",
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "jYpzSAyR#XffZ7JxqHbPn89KYFXqqtggvbLkGyxEBtIe7PYiCMWM",
+      "description": "zdBglbhC#lhPgynRBqvxAdBRuRwZ9_klPNlhvU-F6dFDtdbku-mw",
       "required": true,
       "value": "true'"
     },  
